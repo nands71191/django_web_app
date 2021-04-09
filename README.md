@@ -1,3 +1,3 @@
 # django_web_app
-Upload image and signup, login
-*** User_profile_page has an error
+Upload image and signup, login, creating profile
+You can replace default profile pic now.
